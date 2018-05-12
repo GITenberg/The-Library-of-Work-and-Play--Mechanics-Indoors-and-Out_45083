@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43079'
     url: http://www.gutenberg.org/2009/agents/43079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45083#The-Library-of-Work-and-Play--Mechanics-Indoors-and-Out
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
